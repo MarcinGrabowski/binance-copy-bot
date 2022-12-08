@@ -3,7 +3,7 @@
 Binance leaders copy bot from https://www.binance.com/en/futures-activity/leaderboard
 
 ## Requirements
-+ Windows: https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe
++ Windows: https://docs.docker.com/desktop/install/windows-install/
 + MacOS: https://docs.docker.com/desktop/install/mac-install/
 + Debian: https://docs.docker.com/engine/install/debian/
 + Ubuntu: https://docs.docker.com/engine/install/ubuntu/
