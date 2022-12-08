@@ -1,0 +1,15 @@
+version: "5"
+services:
+    app:
+        image: modostudio/binance-copy-bot:latest
+        links:
+            - redis
+        volumes:
+            - ./configs:/var/www/configs
+            - ./logs:/var/www/logs
+        restart: always
+        container_name: copyTradingApp
+    redis:
+        image: redis
+        restart: always
+        container_name: copyTradingRedis
