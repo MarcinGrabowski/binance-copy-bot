@@ -1,4 +1,4 @@
-# Binance Copy Tradin Bot from Leaderboard
+# Binance Copy Trading Bot from Leaderboard
 
 Binance copy bot from https://www.binance.com/en/futures-activity/leaderboard
 
