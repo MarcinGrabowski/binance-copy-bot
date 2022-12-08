@@ -1,4 +1,4 @@
-# Binance Copy Trading Bot from Leaderboard
+# Copy Trading Bot from Binance Leaderboard
 
 Binance copy bot from https://www.binance.com/en/futures-activity/leaderboard
 
