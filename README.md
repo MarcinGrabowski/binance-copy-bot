@@ -3,7 +3,7 @@
 Binance leaders copy bot from https://www.binance.com/en/futures-activity/leaderboard
 
 ## Requirements
-+ Account on Binance: https://accounts.binance.com/pl/register?ref=231319281
++ Account on [Binance](https://accounts.binance.com/pl/register?ref=231319281)
 + Windows: https://docs.docker.com/desktop/install/windows-install/
 + MacOS: https://docs.docker.com/desktop/install/mac-install/
 + Debian: https://docs.docker.com/engine/install/debian/
