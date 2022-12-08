@@ -15,5 +15,8 @@ Binance leaders copy bot from https://www.binance.com/en/futures-activity/leader
 3. Change file name from _config.ini to config.ini and write your's settings
 4. Terminal/CMD: ./run.sh
 
+## Warning
+You should not open or close positions manually while the application is running
+
 ## ENJOY! 
 Buy Me a Coffee XMR 43cr2YXUgK9fBpbf3cegGgU3rekArAy98JtzjytZYqaH8nmTPXZ9SfoNbRy3HYLY8xhN9NBoWKjPi2MhuKjSbDLQPbhCXLe
