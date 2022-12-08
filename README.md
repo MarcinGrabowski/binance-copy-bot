@@ -9,7 +9,7 @@ Binance leaders copy bot from https://www.binance.com/en/futures-activity/leader
 + Debian: https://docs.docker.com/engine/install/debian/
 + Ubuntu: https://docs.docker.com/engine/install/ubuntu/
 
-## How run
+## How to run
 1. Terminal/CMD: git clone https://github.com/MarcinGrabowski/binance-copy-bot.git .
 2. Terminal/CMD: cp binance-copy-bot
 3. Change file name from _config.ini to config.ini and write your's settings
