@@ -1,6 +1,6 @@
 # Copy Trading Bot from Binance Leaderboard
 
-Binance leaders copy bot from https://www.binance.com/en/futures-activity/leaderboard
+Binance leaders copy cryptocurrency trading bot from https://www.binance.com/en/futures-activity/leaderboard
 
 ## Requirements
 + Account on [Binance](https://accounts.binance.com/pl/register?ref=231319281)
