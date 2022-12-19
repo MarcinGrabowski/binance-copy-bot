@@ -10,10 +10,12 @@ Binance leaders copy cryptocurrency trading bot from https://www.binance.com/en/
 + Ubuntu: https://docs.docker.com/engine/install/ubuntu/
 
 ## How to run
-1. Terminal/CMD: git clone https://github.com/MarcinGrabowski/binance-copy-bot.git .
-2. Terminal/CMD: cp binance-copy-bot
-3. Change file name from _config.ini to config.ini and write your's settings
-4. Terminal/CMD: ./run.sh
+1. Set Preference->Asset Mode: Multi-Assets Mode
+2. Set Preference->Position Mode: Hedge Mode
+3. Terminal/CMD: git clone https://github.com/MarcinGrabowski/binance-copy-bot.git .
+4. Terminal/CMD: cp binance-copy-bot
+5. Change file name from _config.ini to config.ini and write your's settings
+6. Terminal/CMD: ./run.sh
 
 ## Warning
 You should not open or close positions manually while the application is running!
