@@ -4,10 +4,11 @@ Binance leaders copy cryptocurrency trading bot from https://www.binance.com/en/
 
 ## Requirements
 + Account on [Binance](https://accounts.binance.com/pl/register?ref=231319281)
-+ Windows: https://docs.docker.com/desktop/install/windows-install/
-+ MacOS: https://docs.docker.com/desktop/install/mac-install/
-+ Debian: https://docs.docker.com/engine/install/debian/
-+ Ubuntu: https://docs.docker.com/engine/install/ubuntu/
++ Docker
+++ Windows: https://docs.docker.com/desktop/install/windows-install/
+++ MacOS: https://docs.docker.com/desktop/install/mac-install/
+++ Debian: https://docs.docker.com/engine/install/debian/
+++ Ubuntu: https://docs.docker.com/engine/install/ubuntu/
 
 ## How to run
 1. Binance - set Preference->Asset Mode: Multi-Assets Mode
