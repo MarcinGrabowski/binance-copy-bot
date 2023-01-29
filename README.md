@@ -24,5 +24,8 @@ Binance leaders copy cryptocurrency trading bot from https://www.binance.com/en/
 ## Warning
 You should not open or close positions manually while the application is running!
 
+## Support
+[Discord Server](https://discord.gg/BdvAzqqz)
+
 ## ENJOY! 
 Buy Me a Coffee XMR 43cr2YXUgK9fBpbf3cegGgU3rekArAy98JtzjytZYqaH8nmTPXZ9SfoNbRy3HYLY8xhN9NBoWKjPi2MhuKjSbDLQPbhCXLe
