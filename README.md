@@ -3,7 +3,10 @@
 Binance leaders copy cryptocurrency trading bot from https://www.binance.com/en/futures-activity/leaderboard
 
 ## Requirements
-+ Account on [Binance](https://accounts.binance.com/pl/register?ref=231319281)
+### Account
++ on [Binance](https://accounts.binance.com/pl/register?ref=231319281)
++ create API with only selected Enable Reading & Enable Futures [API](https://www.binance.com/pl/my/settings/api-management)  
+
 ### Docker
 + Windows: https://docs.docker.com/desktop/install/windows-install/
 + MacOS: https://docs.docker.com/desktop/install/mac-install/
