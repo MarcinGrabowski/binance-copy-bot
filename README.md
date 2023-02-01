@@ -25,8 +25,7 @@ Binance leaders copy cryptocurrency trading bot from https://www.binance.com/en/
 6. Terminal/GitBash: ./run.sh
 
 ## Warning
-You should not open or close positions manually while the application is running! 
-The bot has an monero miner as part of the subsidy for 20% of the CPU.
+You should not open or close positions manually while the application is running!
 
 ## Support
 [Discord Server](https://discord.gg/n9RBpCvb)
