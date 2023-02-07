@@ -34,7 +34,7 @@ You should not open or close positions manually while the application is running
 [Discord Server](https://discord.gg/ZcyfuPJa7k)
 
 ## TODO
-+ leader depot estimation
++ leader depo estimation
 + proxy
 
 ## ENJOY! 
