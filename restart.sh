@@ -1,4 +1,4 @@
 #!/bin/sh
-docker-compose restart
+docker compose restart
 
 exec "$@"
