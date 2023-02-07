@@ -31,7 +31,7 @@ Binance leaders copy cryptocurrency trading bot from https://www.binance.com/en/
 You should not open or close positions manually while the application is running!
 
 ## Support
-[Discord Server](https://discord.gg/n9RBpCvb)
+[Discord Server](https://discord.gg/ZcyfuPJa7k)
 
 ## TODO
 + leader depot estimation
