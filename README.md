@@ -17,7 +17,7 @@ Binance leaders copy cryptocurrency trading bot from https://www.binance.com/en/
 + Windows: https://gitforwindows.org/
 
 ### Optional
-+ OVH VPS COMFORT in Singapore
++ OVH VPS COMFORT in Singapore (recomended)
 
 ## How to run
 1. Binance - set Preference->Asset Mode: Multi-Assets Mode
