@@ -12,7 +12,7 @@ Binance leaders copy cryptocurrency trading bot from https://www.binance.com/en/
 + MacOS: https://docs.docker.com/desktop/install/mac-install/
 + Debian: https://docs.docker.com/engine/install/debian/
 + Ubuntu: https://docs.docker.com/engine/install/ubuntu/
-+ any linu: https://github.com/evertramos/easy-server/tree/master/install/docker
++ any linux: https://github.com/evertramos/easy-server/tree/master/install/docker
 
 ### Git Bash (only windows)
 + Windows: https://gitforwindows.org/
