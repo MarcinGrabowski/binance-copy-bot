@@ -4,7 +4,7 @@ Binance leaders copy cryptocurrency trading bot from https://www.binance.com/en/
 
 ## Requirements
 ### Account
-+ on [Binance](https://accounts.binance.com/pl/register?ref=231319281)
++ on [Binance](https://www.binance.com/pl/futures/ref/439347313)
 + create [API](https://www.binance.com/pl/my/settings/api-management)   with only selected Enable Reading & Enable Futures
 
 ### Docker
@@ -12,6 +12,7 @@ Binance leaders copy cryptocurrency trading bot from https://www.binance.com/en/
 + MacOS: https://docs.docker.com/desktop/install/mac-install/
 + Debian: https://docs.docker.com/engine/install/debian/
 + Ubuntu: https://docs.docker.com/engine/install/ubuntu/
++ any linux: https://github.com/evertramos/easy-server/tree/master/install/docker
 
 ### Git Bash (only windows)
 + Windows: https://gitforwindows.org/
@@ -25,17 +26,18 @@ Binance leaders copy cryptocurrency trading bot from https://www.binance.com/en/
 3. Terminal/GitBash: git clone https://github.com/MarcinGrabowski/binance-copy-bot.git .
 4. Terminal/GitBash: cp binance-copy-bot
 5. Change file name from _config.ini to config.ini and write your's settings
-6. Terminal/GitBash: ./run.sh
+6. Terminal/GitBash: ./run.sh (sometimes before execute: chmod 755 *.sh)
 
 ## Warning
 You should not open or close positions manually while the application is running!
 
 ## Support
-[Discord Server](https://discord.gg/n9RBpCvb)
+[Discord Server](https://discord.gg/ZcyfuPJa7k)
 
 ## TODO
-+ leader depot estimation 50%
-+ calculation of the trader's deposit
++ leader depo estimation (in progress 60%)
++ proxy 100%
++ GUI
 
 ## ENJOY! 
 Buy Me a Coffee XMR 43cr2YXUgK9fBpbf3cegGgU3rekArAy98JtzjytZYqaH8nmTPXZ9SfoNbRy3HYLY8xhN9NBoWKjPi2MhuKjSbDLQPbhCXLe
