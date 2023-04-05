@@ -34,8 +34,7 @@ You should not open or close positions manually while the application is running
 [Discord Server](https://discord.gg/n9RBpCvb)
 
 ## TODO
-+ leader depot estimation
-+ proxy
++ leader depot estimation 50%
 + calculation of the trader's deposit
 
 ## ENJOY! 
