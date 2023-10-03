@@ -9,7 +9,17 @@ services:
             - ./logs:/var/www/logs
         restart: always
         container_name: copyTradingApp
+        logging:
+            driver: json-file
+            options:
+                max-file: 5
+                max-size: 1m
     redis:
         image: redis
         restart: always
         container_name: copyTradingRedis
+        logging:
+            driver: json-file
+            options:
+                max-file: 5
+                max-size: 1m
